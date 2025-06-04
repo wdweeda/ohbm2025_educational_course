@@ -1,0 +1,8 @@
+---
+title: "OHBM 2025 - Educational course"
+type: website
+---
+
+## Where is my signal?
+
+This is the main landing page for the OHBM 2025 Educational Course: Where is my signal? An interactive course in incorporating spatial information in fMRI analyses.
