@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Wouter Weeda's website"
+  title: "OHBM 2025 Educational course"
   navbar:
     left:
       - href: index.qmd
