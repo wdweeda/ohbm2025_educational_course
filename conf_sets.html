@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>OHBM 2025 Educational course</title>
+<title>conf_sets – OHBM 2025 Educational course</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./timeline.html">Practical sessions</a></li><li class="breadcrumb-item"><a href="./conf_sets.html">[03] Confidence sets</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
@@ -171,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conf_sets.html" class="sidebar-item-text sidebar-link">
+  <a href="./conf_sets.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">[03] Confidence sets</span></a>
   </div>
 </li>
@@ -193,29 +193,39 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
-  <li><a href="#latest-news" id="toc-latest-news" class="nav-link" data-scroll-target="#latest-news">Latest news</a>
+  <li><a href="#quantifying-spatial-uncertainty-in-fmri-analysis-using-confidence-regions" id="toc-quantifying-spatial-uncertainty-in-fmri-analysis-using-confidence-regions" class="nav-link active" data-scroll-target="#quantifying-spatial-uncertainty-in-fmri-analysis-using-confidence-regions">Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions</a>
   <ul class="collapse">
-  <li><a href="#june-5th-2025" id="toc-june-5th-2025" class="nav-link" data-scroll-target="#june-5th-2025">June 5th 2025</a></li>
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
+  <li><a href="#speaker" id="toc-speaker" class="nav-link" data-scroll-target="#speaker">Speaker</a></li>
+  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./timeline.html">Practical sessions</a></li><li class="breadcrumb-item"><a href="./conf_sets.html">[03] Confidence sets</a></li></ol></nav></header>
 
 
 
 
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>Welcome! This is the main landing page for the OHBM 2025 Educational Course: <em>“Where is my signal? An interactive course in incorporating spatial information in fMRI analyses”</em>. In this educational course we will cover several methods for incorporating spatial information in functional MRI analyses. As the course is highly interactive we encourage you to ‘type along’ (or ‘code along’) with us during the sessions. Of course this is not mandatory, you can also follow the sessions without using the software. If you do want to use the software during the sessions you can find the links to the software, datasets, and code examples on this page (the navbar on the left shows the different sessions). We hope to see you there!</p>
+<section id="quantifying-spatial-uncertainty-in-fmri-analysis-using-confidence-regions" class="level2">
+<h2 class="anchored" data-anchor-id="quantifying-spatial-uncertainty-in-fmri-analysis-using-confidence-regions">Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions</h2>
+<p>Traditionally, uncertainty estimation in fMRI inference has focused on how signal magnitude at each specific voxel varies under repeated sampling. However, very little attention has been given to the variability in signal location. In this session, we shall provide a practical introduction to spatial confidence regions; regions which act as probabilistic bounds for the locale of observed clusters and excursion sets, allowing the researcher to assess how reliably a spatial region has been estimated.</p>
+<p>The session shall cover the generation of confidence regions for excursion sets derived from %BOLD maps, standardized (Cohen’s D) effect size images, and conjunctions (overlaps) for both, and will use Jupyter notebooks to demonstrate a Python toolbox for confidence regions on the Human Connectome Project (HCP) dataset. By the end of this workshop, participants will have an understanding of why spatial confidence regions quantify uncertainty in fMRI inference and how to apply the methods in practice.</p>
+<section id="time" class="level3">
+<h3 class="anchored" data-anchor-id="time">Time</h3>
+<p>Tuesday, Jun 24, 4:40 PM - 5:30 PM</p>
 </section>
-<section id="latest-news" class="level2">
-<h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
-<section id="june-5th-2025" class="level3">
-<h3 class="anchored" data-anchor-id="june-5th-2025">June 5th 2025</h3>
-<p>Educational course website is live! Please check in regularly for the latest updates.</p>
+<section id="speaker" class="level3">
+<h3 class="anchored" data-anchor-id="speaker">Speaker</h3>
+<p>Tom Maullin, PhD <a href="https://tommaullin.com/index.html"><i class="bi bi-globe"></i></a></p>
+</section>
+<section id="materials" class="level3">
+<h3 class="anchored" data-anchor-id="materials">Materials</h3>
+<ul>
+<li><p><a href="https://github.com/TomMaullin/crtoolbox">Confidence Regions Toolbox</a></p></li>
+<li><p><a href="https://github.com/TomMaullin/crtoolbox_demo">Confidence Regions Demo</a></p></li>
+</ul>
 
 
 </section>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>OHBM 2025 Educational course</title>
+<title>spatial_bayes – OHBM 2025 Educational course</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./timeline.html">Practical sessions</a></li><li class="breadcrumb-item"><a href="./spatial_bayes.html">[01] Spatial Bayesian GLMs</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./spatial_bayes.html" class="sidebar-item-text sidebar-link">
+  <a href="./spatial_bayes.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">[01] Spatial Bayesian GLMs</span></a>
   </div>
 </li>
@@ -193,29 +193,38 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
-  <li><a href="#latest-news" id="toc-latest-news" class="nav-link" data-scroll-target="#latest-news">Latest news</a>
+  <li><a href="#spatial-bayesian-glms-more-powerful-task-activation-analysis-in-individuals-and-groups" id="toc-spatial-bayesian-glms-more-powerful-task-activation-analysis-in-individuals-and-groups" class="nav-link active" data-scroll-target="#spatial-bayesian-glms-more-powerful-task-activation-analysis-in-individuals-and-groups">Spatial Bayesian GLMs: more powerful task activation analysis in individuals and groups</a>
   <ul class="collapse">
-  <li><a href="#june-5th-2025" id="toc-june-5th-2025" class="nav-link" data-scroll-target="#june-5th-2025">June 5th 2025</a></li>
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
+  <li><a href="#speaker" id="toc-speaker" class="nav-link" data-scroll-target="#speaker">Speaker</a></li>
+  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./timeline.html">Practical sessions</a></li><li class="breadcrumb-item"><a href="./spatial_bayes.html">[01] Spatial Bayesian GLMs</a></li></ol></nav></header>
 
 
 
 
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>Welcome! This is the main landing page for the OHBM 2025 Educational Course: <em>“Where is my signal? An interactive course in incorporating spatial information in fMRI analyses”</em>. In this educational course we will cover several methods for incorporating spatial information in functional MRI analyses. As the course is highly interactive we encourage you to ‘type along’ (or ‘code along’) with us during the sessions. Of course this is not mandatory, you can also follow the sessions without using the software. If you do want to use the software during the sessions you can find the links to the software, datasets, and code examples on this page (the navbar on the left shows the different sessions). We hope to see you there!</p>
+<section id="spatial-bayesian-glms-more-powerful-task-activation-analysis-in-individuals-and-groups" class="level2">
+<h2 class="anchored" data-anchor-id="spatial-bayesian-glms-more-powerful-task-activation-analysis-in-individuals-and-groups">Spatial Bayesian GLMs: more powerful task activation analysis in individuals and groups</h2>
+<p>Massive univariate FMRI analysis, i.e.&nbsp;the general linear model (GLM), emerged in the 1990s, a time when computational considerations made more sophisticated models impractical or even intractable. Today, however, models that explicitly account for spatial dependence across voxels/vertices are easy to use, thanks to advances in computing power, Bayesian methods, and spatial statistics. In a spatial Bayesian GLM, a multivariate prior distribution on activation maps encodes expected similarities between neighboring locations. Spatial GLMs result in higher accuracy and power, both for individual and group-level analysis. Power is often high enough (even in individual-level analysis) that minimum scientifically relevant effect sizes (e.g.&nbsp;1% signal change) can be considered when identifying statistically significant activations. Surface-based and subcortical parcel-constrained spatial GLMs are implemented in the BayesfMRI R package.</p>
+<section id="time" class="level3">
+<h3 class="anchored" data-anchor-id="time">Time</h3>
+<p>Tuesday, Jun 24, 1:40 PM - 2:30 PM</p>
 </section>
-<section id="latest-news" class="level2">
-<h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
-<section id="june-5th-2025" class="level3">
-<h3 class="anchored" data-anchor-id="june-5th-2025">June 5th 2025</h3>
-<p>Educational course website is live! Please check in regularly for the latest updates.</p>
+<section id="speaker" class="level3">
+<h3 class="anchored" data-anchor-id="speaker">Speaker</h3>
+<p>Amanda Mejia, PhD <a href="https://stat.indiana.edu/about/core-faculty/core-faculty/mejia-amanda.html"><i class="bi bi-globe"></i></a> <a href="https://github.com/mandymejia"><i class="bi bi-github"></i></a> <a href="https://www.statmindlab.com/home"><i class="bi bi-flask"></i></a> <a href="https://bsky.app/profile/mandymejia.bsky.social"><i class="bi bi-bluesky"></i></a></p>
+</section>
+<section id="materials" class="level3">
+<h3 class="anchored" data-anchor-id="materials">Materials</h3>
+<ul>
+<li><p><a href="https://github.com/mandymejia/BayesfMRI" title="BayesfMRI package Github">BayesfMRI package</a></p></li>
+<li><p><a href="https://htmlpreview.github.io/?https://github.com/mandymejia/BayesfMRI/blob/10.0/vignettes/BayesfMRI_vignette.html" title="BayesfMRI Vignette">BayesfMRI tutorial</a></p></li>
+</ul>
 
 
 </section>
