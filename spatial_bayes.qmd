@@ -1,5 +1,5 @@
 ---
-title: "[1] Spatial Bayesian GLMs"
+title: "[01] Spatial Bayesian GLMs"
 type: website
 format:
   html:
@@ -8,8 +8,23 @@ format:
 
 ## Spatial Bayesian GLMs: more powerful task activation analysis in individuals and groups
 
-Massive univariate FMRI analysis, i.e. the general linear model (GLM), emerged in the 1990s, a time when computational considerations made more sophisticated models impractical or even intractable. Today, however, models that explicitly account for spatial dependence across voxels/vertices are easy to use, thanks to advances in computing power, Bayesian methods, and spatial statistics. In a spatial Bayesian GLM, a multivariate prior distribution on activation maps encodes expected similarities between neighboring locations. Spatial GLMs result in higher accuracy and power, both for individual and group-level analysis. Power is often high enough (even in individual-level analysis) that minimum scientifically relevant effect sizes (e.g. 1% signal change) can be considered when identifying statistically significant activations. Surface-based and subcortical parcel-constrained spatial GLMs are implemented in the BayesfMRI R package. 
+Massive univariate FMRI analysis, i.e. the general linear model (GLM), emerged in the 1990s, a time when computational considerations made more sophisticated models impractical or even intractable. Today, however, models that explicitly account for spatial dependence across voxels/vertices are easy to use, thanks to advances in computing power, Bayesian methods, and spatial statistics. In a spatial Bayesian GLM, a multivariate prior distribution on activation maps encodes expected similarities between neighboring locations. Spatial GLMs result in higher accuracy and power, both for individual and group-level analysis. Power is often high enough (even in individual-level analysis) that minimum scientifically relevant effect sizes (e.g. 1% signal change) can be considered when identifying statistically significant activations. Surface-based and subcortical parcel-constrained spatial GLMs are implemented in the BayesfMRI R package.
+
+### Time
+
+Tuesday, Jun 24, 1:40 PM - 2:30 PM
 
 ### Speaker
 
-Amanday Mejia, PhD.
+Amanda Mejia, PhD <a href='https://stat.indiana.edu/about/core-faculty/core-faculty/mejia-amanda.html'><i class="bi bi-globe"></i></a> 
+<a href='https://github.com/mandymejia'><i class="bi bi-github"></i></a> 
+<a href='https://www.statmindlab.com/home'><i class="bi bi-flask"></i></a>
+<a href='https://bsky.app/profile/mandymejia.bsky.social'><i class="bi bi-bluesky"></i></a> 
+
+
+
+### Materials
+
+- [BayesfMRI package](https://github.com/mandymejia/BayesfMRI "BayesfMRI package Github")
+
+- [BayesfMRI tutorial](https://htmlpreview.github.io/?https://github.com/mandymejia/BayesfMRI/blob/10.0/vignettes/BayesfMRI_vignette.html "BayesfMRI Vignette")

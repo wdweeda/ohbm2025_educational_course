@@ -1,5 +1,5 @@
 ---
-title: "[5] Confidence sets"
+title: "[03] Confidence sets"
 format:
   html:
     title: ""
@@ -12,6 +12,19 @@ Traditionally, uncertainty estimation in fMRI inference has focused on how signa
 The session shall cover the generation of confidence regions for excursion sets derived from %BOLD maps, standardized (Cohen’s D) effect size images, and conjunctions (overlaps) for both, and will use Jupyter notebooks to demonstrate a Python toolbox for confidence regions on the Human Connectome Project (HCP) dataset. By the end of this workshop, participants will have an understanding of why spatial confidence regions quantify uncertainty in fMRI inference and how to apply the methods in practice.
 
 
+### Time
+
+Tuesday, Jun 24, 4:40 PM - 5:30 PM
+
 ### Speaker
 
-Tom Maullin, PhD.
+Tom Maullin, PhD <a href='https://tommaullin.com/index.html'><i class="bi bi-globe"></i></a>
+
+
+### Materials
+
+- [Confidence Regions Toolbox](https://github.com/TomMaullin/crtoolbox)
+
+- [Confidence Regions Demo](https://github.com/TomMaullin/crtoolbox_demo)
+
+

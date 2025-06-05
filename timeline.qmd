@@ -6,35 +6,31 @@ format:
 type: website
 ---
 
-Introduction (10 min) [13:30 - 13:40]
+## Practical sessions, room P2 (Plaza Level)
 
-Session 1 (50 min), [13:40 - 14:30]: Spatial Bayesian Models
+<h4 style="margin-left: 1em;"> 1:30 PM - 1:40 PM - Introduction </h4>
 
-Intro (10 min)
+### Session 1
 
-Workshop (40 min)
+<h4 style="margin-left: 1em;"> 1:40 PM - 2:30 PM - <a href="spatial_bayes.html">Spatial Bayesian Models</a> (Amanda Mejia) </h4>
 
-Break 15 min [14:30 - 14:45]
+<h4 style="margin-left: 1em;"> 2:30 PM - 2:45 PM - Break </h4>
 
-Session 2 (100 min), [14:45 - 16:25]: Cluster analysis revisited
+### Session 2
 
-Introduction (25 min)
+<h4 style="margin-left: 1em;"> 2:45 PM - 4:25 PM - Cluster analysis revisited </h4> 
+<br>
+<h5 style="margin-left: 2em;"> 2:45 PM - 3:10 PM - Introduction (Wouter Weeda)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 3:10 PM - 3:35 PM - <a href="aribrain_exp.html">All-Resolutions Inference using the ARIbrain explorer </a>(Lucas Peek)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 3:35 PM - 4:00 PM - <a href="clustertdp.html">ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses </a>(Xu Chen)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 4:00 PM - 4:25 PM - <a href="lce_tfce.html">Localized Cluster Enhancement (LCE): improving TFCE for better localization of brain activity </a>(Wouter Weeda)</h5>  
 
-Workshop 2a (25 min)
-Lucas Peek: All-Resolutions Inference using the BrainNav app 
-
-Workshop 2b (25 min)
-Xu Chen: ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses
-
-Workshop 2c (25 min)
-Wouter Weeda: Localized Cluster Enhancement (LCE): improving TFCE for better localization of brain activity
- 
-Break 15 min [16:25 - 16:40]
+<h4 style="margin-left: 1em;"> 4:25 PM - 4:40 PM - Break </h4>
 	
-Session 3 (50 min), [16:40 - 17:30]
+### Session 3 
 
-Tom Maullin-Sapey: Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions
-
-Intro (10 min)
-Workshop (40 min)
+<h4 style="margin-left: 1em;">  4:40 PM - 5:30 PM - <a href="conf_sets.html">Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions</a>(Tom Maullin)</h4>
 

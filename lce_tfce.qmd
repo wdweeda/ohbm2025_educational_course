@@ -1,5 +1,5 @@
 ---
-title: "[4] Localized cluster enhancement"
+title: "[2c] Localized cluster enhancement"
 format:
   html:
     title: ""
@@ -11,6 +11,20 @@ type: website
 Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.
  
 
+### Time
+
+Tuesday, Jun 24, 4:00 PM - 4:25 PM
+
 ### Speaker
 
-Wouter Weeda, PhD.
+Wouter Weeda, PhD <a href='https://wdweeda.github.io/'><i class="bi bi-globe"></i></a> 
+<a href='https://github.com/wdweeda'><i class="bi bi-github"></i></a>
+<a href='https://bsky.app/profile/wouterweeda.bsky.social'><i class="bi bi-bluesky"></i></a>
+
+### Materials
+
+- [StatBrainz Matlab Package](https://github.com/sjdavenport/StatBrainz)
+
+## test
+
+Email me 

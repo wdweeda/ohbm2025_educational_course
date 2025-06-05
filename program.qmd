@@ -31,3 +31,32 @@ At the end of the course, participants will have knowledge on (1) the state-of-t
  
 #### Target Audience
 Neuroimaging researchers using (functional) MRI. The course is explicitly aimed at all researchers, from any level, doing (functional) MRI analysis. 
+
+## Program overview
+
+<h4 style="margin-left: 1em;"> 1:30 PM - 1:40 PM - Introduction </h4>
+
+### Session 1
+
+<h4 style="margin-left: 1em;"> 1:40 PM - 2:30 PM - <a href="spatial_bayes.html">Spatial Bayesian Models</a> (Amanda Mejia) </h4>
+
+<h4 style="margin-left: 1em;"> 2:30 PM - 2:45 PM - Break </h4>
+
+### Session 2
+
+<h4 style="margin-left: 1em;"> 2:45 PM - 4:25 PM - Cluster analysis revisited </h4> 
+<br>
+<h5 style="margin-left: 2em;"> 2:45 PM - 3:10 PM - Introduction (Wouter Weeda)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 3:10 PM - 3:35 PM - <a href="aribrain_exp.html">All-Resolutions Inference using the ARIbrain explorer </a>(Lucas Peek)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 3:35 PM - 4:00 PM - <a href="clustertdp.html">ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses </a>(Xu Chen)</h5>  
+<br>
+<h5 style="margin-left: 2em;"> 4:00 PM - 4:25 PM - <a href="lce_tfce.html">Localized Cluster Enhancement (LCE): improving TFCE for better localization of brain activity </a>(Wouter Weeda)</h5>  
+
+<h4 style="margin-left: 1em;"> 4:25 PM - 4:40 PM - Break </h4>
+	
+### Session 3 
+
+<h4 style="margin-left: 1em;">  4:40 PM - 5:30 PM - <a href="conf_sets.html">Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions</a>(Tom Maullin)</h4>
+
