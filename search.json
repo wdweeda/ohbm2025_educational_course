@@ -2,15 +2,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "OHBM 2025 - Educational course",
+    "title": "Where is my signal?",
     "section": "",
-    "text": "This is the main landing page for the OHBM 2025 Educational Course: Where is my signal? An interactive course in incorporating spatial information in fMRI analyses. Below you can find the link to the different talks, datasets and software."
+    "text": "Welcome! This is the main landing page for the OHBM 2025 Educational Course: “Where is my signal? An interactive course in incorporating spatial information in fMRI analyses”. In this educational course we will cover several methods for incorporating spatial information in functional MRI analyses. As the course is highly interactive we encourage you to ‘type along’ (or ‘code along’) with us during the sessions. Of course this is not mandatory, you can also follow the sessions without using the software. If you do want to use the software during the sessions you can find the links to the software, datasets, and code examples on this page (the navbar on the left shows the different sessions). We hope to see you there!",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
-    "objectID": "index.html#where-is-my-signal",
-    "href": "index.html#where-is-my-signal",
-    "title": "OHBM 2025 - Educational course",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Where is my signal?",
     "section": "",
-    "text": "This is the main landing page for the OHBM 2025 Educational Course: Where is my signal? An interactive course in incorporating spatial information in fMRI analyses. Below you can find the link to the different talks, datasets and software."
+    "text": "Welcome! This is the main landing page for the OHBM 2025 Educational Course: “Where is my signal? An interactive course in incorporating spatial information in fMRI analyses”. In this educational course we will cover several methods for incorporating spatial information in functional MRI analyses. As the course is highly interactive we encourage you to ‘type along’ (or ‘code along’) with us during the sessions. Of course this is not mandatory, you can also follow the sessions without using the software. If you do want to use the software during the sessions you can find the links to the software, datasets, and code examples on this page (the navbar on the left shows the different sessions). We hope to see you there!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Where is my signal?",
+    "section": "Latest news",
+    "text": "Latest news\n\nJune 5th 2025\nEducational course website is live! Please check in regularly for the latest updates.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "List of speakers:\n\nLucas Peek\nXu Chen\nAmanda Mejia\nTom Maullin\nWouter Weeda",
+    "crumbs": [
+      "Speaker overview"
+    ]
+  },
+  {
+    "objectID": "speakers.html#speakers",
+    "href": "speakers.html#speakers",
+    "title": "Speakers",
+    "section": "",
+    "text": "List of speakers:\n\nLucas Peek\nXu Chen\nAmanda Mejia\nTom Maullin\nWouter Weeda",
+    "crumbs": [
+      "Speaker overview"
+    ]
   }
 ]
