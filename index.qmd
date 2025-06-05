@@ -1,6 +1,9 @@
 ---
 title: "Where is my signal?"
 type: website
+format:
+  html:
+    title: ""
 ---
 
 ## Welcome

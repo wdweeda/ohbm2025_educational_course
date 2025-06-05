@@ -9,12 +9,22 @@ website:
     contents:
       - text: "Introduction"
         href: index.qmd
+      - text: "Program"
+        href: program.qmd
+      - section: "Practical sessions"
+        href: timeline.qmd
+        contents:
+        - spatial_bayes.qmd
+        - aribrain_exp.qmd
+        - clustertdp.qmd
+        - lce_tfce.qmd
+        - conf_sets.qmd
       - text: "Speaker overview"
         href: speakers.qmd
     tools: 
       - icon: github
         menu: 
-          - text: "Source code - Educational course"
+          - text: "Source code"
             href: https://github.com/wdweeda/ohbm2025_educational_course
           - text: "Wouter's Github"
             href: https://github.com/wdweeda/
@@ -23,3 +33,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    

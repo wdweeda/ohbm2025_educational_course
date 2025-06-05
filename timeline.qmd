@@ -1,0 +1,40 @@
+---
+title: "Timeline"
+format:
+  html:
+    title: ""
+type: website
+---
+
+Introduction (10 min) [13:30 - 13:40]
+
+Session 1 (50 min), [13:40 - 14:30]: Spatial Bayesian Models
+
+Intro (10 min)
+
+Workshop (40 min)
+
+Break 15 min [14:30 - 14:45]
+
+Session 2 (100 min), [14:45 - 16:25]: Cluster analysis revisited
+
+Introduction (25 min)
+
+Workshop 2a (25 min)
+Lucas Peek: All-Resolutions Inference using the BrainNav app 
+
+Workshop 2b (25 min)
+Xu Chen: ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses
+
+Workshop 2c (25 min)
+Wouter Weeda: Localized Cluster Enhancement (LCE): improving TFCE for better localization of brain activity
+ 
+Break 15 min [16:25 - 16:40]
+	
+Session 3 (50 min), [16:40 - 17:30]
+
+Tom Maullin-Sapey: Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions
+
+Intro (10 min)
+Workshop (40 min)
+

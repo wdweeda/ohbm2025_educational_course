@@ -1,6 +1,9 @@
 ---
 title: "Speakers"
 type: website
+format:
+  html:
+    title: ""
 ---
 
 ## Speakers

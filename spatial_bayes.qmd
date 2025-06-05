@@ -1,0 +1,15 @@
+---
+title: "[1] Spatial Bayesian GLMs"
+type: website
+format:
+  html:
+    title: ""
+---
+
+## Spatial Bayesian GLMs: more powerful task activation analysis in individuals and groups
+
+Massive univariate FMRI analysis, i.e. the general linear model (GLM), emerged in the 1990s, a time when computational considerations made more sophisticated models impractical or even intractable. Today, however, models that explicitly account for spatial dependence across voxels/vertices are easy to use, thanks to advances in computing power, Bayesian methods, and spatial statistics. In a spatial Bayesian GLM, a multivariate prior distribution on activation maps encodes expected similarities between neighboring locations. Spatial GLMs result in higher accuracy and power, both for individual and group-level analysis. Power is often high enough (even in individual-level analysis) that minimum scientifically relevant effect sizes (e.g. 1% signal change) can be considered when identifying statistically significant activations. Surface-based and subcortical parcel-constrained spatial GLMs are implemented in the BayesfMRI R package. 
+
+### Speaker
+
+Amanday Mejia, PhD.

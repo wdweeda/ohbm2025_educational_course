@@ -1,0 +1,33 @@
+---
+title: "Program"
+type: website
+format:
+  html:
+    title: ""
+---
+
+## Program
+
+### What, when where?
+
+#### What
+Educational Course - Half Day (4 hours) [2794]
+
+#### When
+Tuesday, Jun 24: 1:30 PM - 5:30 PM 
+
+#### Where
+Brisbane Convention & Exhibition Centre Room: P2 (Plaza Level) 
+
+### Abstract
+Most functional MRI analysis pipelines begin by analyzing the functional time-series data for each voxel separately. This includes modeling the hemodynamic response for each subject across experimental conditions, but also the (multi-level) modeling of brain activation across (groups of) participants. Second, the brain maps resulting from the first step are analyzed to localize significant regions of brain activity or contrast, either at the individual or group level. That is, the statistics from each separately-analyzed voxel of the first step are combined to answer the question most researchers are interested in: where in the brain is my signal?
+
+It is in this second step that spatial information (potentially) enters the equation. Often this information enters the analysis implicitly, for example as an assumption of the multiple comparisons correction (e.g., cluster-extent analysis) and is not used in any optimal fashion. Given the nature of the FMRI signal, and the hypotheses researchers have, there is much to be gained when spatial information is incorporated into the analysis explicitly, either at the first level, the second level, or both. In this course we will teach participants the state-of-the-art methods for incorporating spatial information into their analyses. We will cover extensions of the traditional analyses that take into account the spatial nature of data (True Discovery Proportions, All-Resolutions Inference (ARI), and threshold-free cluster enhancement (TFCE)). We will also cover explicit modeling approaches that incorporate spatial information (spatial Bayesian GLMs) and methods to explicitly test spatial hypotheses across studies (Confidence Sets).
+
+In this half-day course participants will learn state-of-the-art approaches to make explicit use of spatial information, and will gain understanding about how these approaches improve the quality of analyses as well as how to implement them in their own analysis pipelines.
+
+#### Objectives
+At the end of the course, participants will have knowledge on (1) the state-of-the-art methods for incorporating spatial information, (2) will be able to perform these analyses using software implementations, and (3) will be equipped to interpret the results from these analyses in a meaningful way. All course materials will be made freely available to all participants.
+ 
+#### Target Audience
+Neuroimaging researchers using (functional) MRI. The course is explicitly aimed at all researchers, from any level, doing (functional) MRI analysis. 

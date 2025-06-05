@@ -1,0 +1,17 @@
+---
+title: "[5] Confidence sets"
+format:
+  html:
+    title: ""
+type: website
+---
+
+## Quantifying Spatial Uncertainty in fMRI Analysis using Confidence Regions
+Traditionally, uncertainty estimation in fMRI inference has focused on how signal magnitude at each specific voxel varies under repeated sampling. However, very little attention has been given to the variability in signal location. In this session, we shall provide a practical introduction to spatial confidence regions; regions which act as probabilistic bounds for the locale of observed clusters and excursion sets, allowing the researcher to assess how reliably a spatial region has been estimated.
+
+The session shall cover the generation of confidence regions for excursion sets derived from %BOLD maps, standardized (Cohen’s D) effect size images, and conjunctions (overlaps) for both, and will use Jupyter notebooks to demonstrate a Python toolbox for confidence regions on the Human Connectome Project (HCP) dataset. By the end of this workshop, participants will have an understanding of why spatial confidence regions quantify uncertainty in fMRI inference and how to apply the methods in practice.
+
+
+### Speaker
+
+Tom Maullin, PhD.

@@ -1,0 +1,16 @@
+---
+title: "[4] Localized cluster enhancement"
+format:
+  html:
+    title: ""
+type: website
+---
+
+##  Localized Cluster Enhancement (LCE): improving Threshold Free Cluster Enhancement (TFCE) for better localization of brain activity
+
+Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.
+ 
+
+### Speaker
+
+Wouter Weeda, PhD.
