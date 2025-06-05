@@ -3,11 +3,21 @@ project:
 
 website:
   title: "OHBM 2025 Educational course"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: index.qmd
+      - text: "Speaker overview"
+        href: speakers.qmd
+    tools: 
+      - icon: github
+        menu: 
+          - text: "Source code - Educational course"
+            href: https://github.com/wdweeda/ohbm2025_educational_course
+          - text: "Wouter's Github"
+            href: https://github.com/wdweeda/
 format:
   html:
     theme: cosmo

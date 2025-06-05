@@ -1,9 +1,15 @@
 ---
-title: "OHBM 2025 - Educational course"
+title: "Where is my signal?"
 type: website
 ---
 
-## Where is my signal?
+## Welcome
 
-This is the main landing page for the OHBM 2025 Educational Course: Where is my signal? An interactive course in incorporating spatial information in fMRI analyses. Below you can find the link to the different talks, datasets and software.
+Welcome! This is the main landing page for the OHBM 2025 Educational Course: *"Where is my signal? An interactive course in incorporating spatial information in fMRI analyses"*. In this educational course we will cover several methods for incorporating spatial information in functional MRI analyses. As the course is highly interactive we encourage you to 'type along' (or 'code along') with us during the sessions. Of course this is not mandatory, you can also follow the sessions without using the software. If you do want to use the software during the sessions you can find the links to the software, datasets, and code examples on this page (the navbar on the left shows the different sessions). We hope to see you there!
+
+## Latest news
+
+### June 5th 2025 
+
+Educational course website is live! Please check in regularly for the latest updates.
 
