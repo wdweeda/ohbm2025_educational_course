@@ -28,6 +28,14 @@ website:
             href: https://github.com/wdweeda/ohbm2025_educational_course
           - text: "Wouter's Github"
             href: https://github.com/wdweeda/
+            
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "This site is still being build, information may not be up-to-date yet"
+    type: primary
+    position: below-navbar
+    
 format:
   html:
     theme: cosmo
