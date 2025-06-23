@@ -6,10 +6,9 @@ format:
 type: website
 ---
 
-## ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses
+## ClusterTDP: Cluster Inference via Closed Testing for True Discovery Proportion (TDP) Analysis
 
-In a standard functional MRI data analysis pipeline the final step is often a correction of multiple comparisons. This step determines which regions of the brain show significant activation. The SPM software package provides users with extensive information on brain activity across different levels of analysis: set (whole brain), cluster (random-field based clusters), and voxelwise statistics. Interpretation of results differs across these levels, as for example cluster level statistics only tell researchers that there is activity in a cluster, but not where in that cluster activity is located. In other words, cluster-level statistics are about the extent of a cluster, but provide no information of the activity within a cluster. We recently developed a cluster-level compatible measure for the amount of signal within a cluster: clusterTDP. This measure estimates the amount of significantly activated voxels within a cluster, thus providing the researcher with valuable information on activity within the cluster. Here we introduce the clusterTDP SPM extension: a SPM compatible extension that provides True Discovery Proportions (TDP) for cluster-level analyses. The extension seamlessly integrates in the SPM pipeline making running the analysis and interpreting results easy. In this session we will show how to install and use the SPM extension, as well as how to interpret results. 
-
+In a standard functional MRI data analysis pipeline, the final step often involves a correction of multiple comparisons to determines which regions of the brain show statistically significant activation. The SPM software package supports this by providing users with extensive information on brain activity across different levels of analysis: set (whole brain), cluster (random field-based clusters), and voxelwise statistics. Interpretation of results differs across these levels, as for example cluster-level statistics only tell researchers that there is activity in a cluster, but not how much or where exactly the activation occurs. In other words, cluster-level statistics are about the extent of a cluster, but provide no information of the activity within a cluster. To address this, we recently developed ClusterTDP, which offers a cluster-level compatible measure for the amount of signal within a cluster. This measure estimates the amount of truly activated voxels within a cluster using the true discovery proportion (TDP), thus providing the researcher with valuable information on activity within each cluster. Here we introduce the ClusterTDP SPM extension, which integrates directly into the SPM workflow and reports TDP estimates for each significant cluster. We also provide an companion standalone tool, TDPClusters, which uses herustic algorithms to approximate TDP with potentially higher accuracy. In this session we will show how to install and use both tools, as well as how to interpret results.
 
 ### Time
 
@@ -21,7 +20,7 @@ Xu Chen, PhD <a href='https://www.essex.ac.uk/people/CHENX23803/Xu-Chen'><i clas
 
 ### Materials
 
-- [ClusterTDP SPM](https://github.com/xuchen312/clusterTDP-SPM "ClusterTDP SPM Extension")
+- [ClusterTDP](https://github.com/xuchen312/clusterTDP-SPM "ClusterTDP")
 
-- [ARIbrain SPM](https://github.com/xuchen312/ARIbrain-SPM "ARIBrain SPM Extension")
+- [TDPClusters](https://github.com/ppgorecki/TDPClusters "TDPClusters")
 
