@@ -50,7 +50,7 @@ Neuroimaging researchers using (functional) MRI. The course is explicitly aimed 
 <br>
 <h5 style="margin-left: 2em;"> 3:10 PM - 3:35 PM - <a href="aribrain_exp.html">All-Resolutions Inference using the ARIbrain explorer </a>(Lucas Peek)</h5>  
 <br>
-<h5 style="margin-left: 2em;"> 3:35 PM - 4:00 PM - <a href="clustertdp.html">ClusterTDP: Cluster Inference via Closed Testing for True Discovery Proportion (TDP) Analysis </a>(Xu Chen)</h5>  
+<h5 style="margin-left: 2em;"> 3:35 PM - 4:00 PM - <a href="clustertdp.html">ClusterTDP: an SPM extension providing True Discovery Proportions (TDPs) for cluster-level analyses </a>(Xu Chen)</h5>  
 <br>
 <h5 style="margin-left: 2em;"> 4:00 PM - 4:25 PM - <a href="lce_tfce.html">Localized Cluster Enhancement (LCE): improving TFCE for better localization of brain activity </a>(Wouter Weeda)</h5>  
 
