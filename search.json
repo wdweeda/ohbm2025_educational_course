@@ -78,7 +78,7 @@
     "href": "lce_tfce.html",
     "title": "OHBM 2025 Educational course",
     "section": "",
-    "text": "Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.\n\n\nTuesday, Jun 24, 4:00 PM - 4:25 PM\n\n\n\nWouter Weeda, PhD   \n\n\n\n\nStatBrainz Matlab Package",
+    "text": "Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.\n\n\nTuesday, Jun 24, 4:00 PM - 4:25 PM\n\n\n\nWouter Weeda, PhD   \n\n\n\n\nStatBrainz Matlab Package\nRhyme data (small) - 13 subjects dataset\nMNI mask (small)\nLCE Analysis tutorial(.mlx)",
     "crumbs": [
       "Practical sessions",
       "[2c] Localized cluster enhancement"
@@ -89,18 +89,7 @@
     "href": "lce_tfce.html#localized-cluster-enhancement-lce-improving-threshold-free-cluster-enhancement-tfce-for-better-localization-of-brain-activity",
     "title": "OHBM 2025 Educational course",
     "section": "",
-    "text": "Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.\n\n\nTuesday, Jun 24, 4:00 PM - 4:25 PM\n\n\n\nWouter Weeda, PhD   \n\n\n\n\nStatBrainz Matlab Package",
-    "crumbs": [
-      "Practical sessions",
-      "[2c] Localized cluster enhancement"
-    ]
-  },
-  {
-    "objectID": "lce_tfce.html#test",
-    "href": "lce_tfce.html#test",
-    "title": "OHBM 2025 Educational course",
-    "section": "test",
-    "text": "test\nEmail me",
+    "text": "Threshold-free Cluster Enhancement (TFCE) is one of the most popular methods for multiple comparisons correction. The strength of TFCE lies in the use of spatial information of neighbouring voxels to improve estimates of brain activity. We recently developed a closed testing implementation of the TFCE statistic: Localized Cluster Enhancement (LCE). LCE leverages the strength of TFCE by using information from neighbouring voxels but provides improved error control and better localization. In this session we will show how to use the LCE software and how to interpret results.\n\n\nTuesday, Jun 24, 4:00 PM - 4:25 PM\n\n\n\nWouter Weeda, PhD   \n\n\n\n\nStatBrainz Matlab Package\nRhyme data (small) - 13 subjects dataset\nMNI mask (small)\nLCE Analysis tutorial(.mlx)",
     "crumbs": [
       "Practical sessions",
       "[2c] Localized cluster enhancement"
