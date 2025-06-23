@@ -24,7 +24,6 @@ Wouter Weeda, PhD <a href='https://wdweeda.github.io/'><i class="bi bi-globe"></
 ### Materials
 
 - [StatBrainz Matlab Package](https://github.com/sjdavenport/StatBrainz)
-
-## test
-
-Email me 
+- [Rhyme data (small) - 13 subjects dataset](data_files/full_data_13_small.nii.gz)
+- [MNI mask (small)](data_files/MNI_mask_small.nii.gz)
+- [LCE Analysis tutorial(.mlx)](data_files/LCE_tutorial_educourse_real.mlx)
