@@ -28,3 +28,5 @@ Amanda Mejia, PhD <a href='https://stat.indiana.edu/about/core-faculty/core-facu
 - [BayesfMRI package](https://github.com/mandymejia/BayesfMRI "BayesfMRI package Github")
 
 - [BayesfMRI tutorial](https://htmlpreview.github.io/?https://github.com/mandymejia/BayesfMRI/blob/10.0/vignettes/BayesfMRI_vignette.html "BayesfMRI Vignette")
+
+-[Slides](0https://www.dropbox.com/scl/fi/hkeutdtkzu9oy3d8rlx21/OHBM2025_educational.pdf?rlkey=c9n0bvnwj9ffeverd0mg7e4tw&dl=0 "Presentation slides")
