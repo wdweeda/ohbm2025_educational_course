@@ -23,4 +23,7 @@ Lucas Peek, PhD <a href='https://www.lucaspeek.com/'><i class="bi bi-globe"></i>
 ### Materials
 
 - [ARIBrain Explorer](https://github.com/AriBrain/ari-core "ARIBrain Explorer")
+
 - [Demo data](https://github.com/AriBrain/ari-core/tree/main/ari_application/public/demo_data "demo data")
+
+- [Cluster extent introduction slides](static/OHBM_2025_cluster_revisited.pdf)
