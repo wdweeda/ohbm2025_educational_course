@@ -25,4 +25,4 @@ Xu Chen, PhD <a href='https://www.essex.ac.uk/people/CHENX23803/Xu-Chen'><i clas
 
 - [TDPClusters](https://github.com/ppgorecki/TDPClusters "TDPClusters")
 
-- [Cluster extent introduction slides](static/OHBM_2025_cluster_revisited.pdf)
+- [Cluster extent introduction slides](static/data_files/OHBM_2025_cluster_revisited.pdf)

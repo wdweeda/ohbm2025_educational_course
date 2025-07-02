@@ -31,6 +31,6 @@ Wouter Weeda, PhD <a href='https://wdweeda.github.io/'><i class="bi bi-globe"></
 
 - [LCE Analysis tutorial(.mlx)](static/data_files/LCE_tutorial_educourse_real.mlx)
 
-- [LCE Slides](static/OHBM_2025_lce_intro.pdf)
+- [LCE Slides](static/data_files/OHBM_2025_lce_intro.pdf)
 
-- [Cluster extent introduction slides](static/OHBM_2025_cluster_revisited.pdf)
+- [Cluster extent introduction slides](static/data_files/OHBM_2025_cluster_revisited.pdf)
